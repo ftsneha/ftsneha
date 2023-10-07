@@ -6,3 +6,4 @@
 <h1> My name is Fariha Sneha </h1>
 
 <h2> Aspiring web developer and tech <h2> 
+
